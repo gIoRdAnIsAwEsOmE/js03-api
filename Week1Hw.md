@@ -5,7 +5,7 @@ For this week's homework you guys are going to build a website to view a **rando
 You can see an example here
 ![Example](https://i.gyazo.com/dc426e3bcd31714495e92d88633a9017.gif)
 
-If you need review using a simple API call *or GET request* please read [Week 1 Rewivew](Week1.md)
+If you need review using a simple API call *or GET request* please read [Week 1 Review](Week1.md)
 
 Feel free to talk in the slack channel if you have any questions.
 
