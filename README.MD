@@ -28,3 +28,4 @@ $.ajax(callOptions);
 *Hint: you need to know what the bold words mean.*
 # Week Reviews
 1. [Week 1](Week1.md)
+2. [Week 1 Homework](Week1Hw.md)
