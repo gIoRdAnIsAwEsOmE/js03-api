@@ -1,5 +1,5 @@
 # JSO3 API
-This class will assume the following: **proefficiency with git**, **mastery over javascript variables**, and a *comfortable* **ES6 syntax**
+This class will assume the following: **proficiency with git**, **mastery over javascript variables**, and a *comfortable* **ES6 syntax**
 ## Resources
 - [JQuery Documentation](https://api.jquery.com/)
 - [PokeApi](https://pokeapi.co/)
