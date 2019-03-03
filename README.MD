@@ -14,6 +14,7 @@ To make a simple JQuery Ajax call:
 callOptions = {
     url: 'https://pokeapi.co/api/v2/',
     type: 'GET',
+    datatype: 'json',
     success: (data) => {
         console.log(data);
     },
@@ -27,6 +28,7 @@ $.ajax(callOptions);
 
 `callOptions` is a javascript **object** that we use to define the link, type of request, and datatype of `data`. `success` and `error` are both object keys that define a **callback function**. This means that the ajax call will pass the data from the api calls to those functions.
 *Hint: you need to know what the bold words mean.*
+
 # Week Reviews
 1. [Week 1](Week1.md)
 
