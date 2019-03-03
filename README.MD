@@ -4,6 +4,7 @@ This class will assume the following: **proficiency with git**, **mastery over j
 - [JQuery Documentation](https://api.jquery.com/)
 - [PokeApi](https://pokeapi.co/)
 - [Postman](https://www.getpostman.com/) **Recommended**
+- [Ecmascript 6](https://github.com/airbnb/javascript) **Suggested**
 - More will be added in the future
 
 What this class will review is javascript APIs!
@@ -28,4 +29,7 @@ $.ajax(callOptions);
 *Hint: you need to know what the bold words mean.*
 # Week Reviews
 1. [Week 1](Week1.md)
-2. [Week 1 Homework](Week1Hw.md)
+
+
+# Homework
+1. [Week 1 Homework](Week1Hw.md)
