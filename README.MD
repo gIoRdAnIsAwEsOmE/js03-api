@@ -10,7 +10,7 @@ This class will assume the following: **proficiency with git**, **mastery over j
 What this class will review is javascript APIs!
 
 To make a simple JQuery Ajax call:
-```javacript
+```javascript
 callOptions = {
     url: 'https://pokeapi.co/api/v2/',
     type: 'GET',
@@ -31,7 +31,8 @@ $.ajax(callOptions);
 
 # Week Reviews
 1. [Week 1](Week1.md)
-
+2. [Week 2](Week2.md)
 
 # Homework
 1. [Week 1 Homework](Week1Hw.md)
+
