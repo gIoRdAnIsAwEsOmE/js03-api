@@ -35,4 +35,5 @@ $.ajax(callOptions);
 
 # Homework
 1. [Week 1 Homework](Week1Hw.md)
+2. [Week 3 Homework](Week3Hw.md)
 
