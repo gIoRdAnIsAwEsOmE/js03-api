@@ -1,4 +1,4 @@
-Directions for Homework 4:
+# Directions for Homework 4:
 1. Create a new respository that houses all of your homework from previous lessons. There MUST be folders named “Homework1”, “Homework2", “Homework3”, “Homework4"
 2. For this week’s homework, we are going to be using the random joke api (https://official-joke-api.appspot.com) there are two parts.
     - The first task is to “fix” the [file](hello.html) included. There will be no directions for this other than to fix the [file](hello.html). The best hint is that there should be no lines that are completely deleted from the [file](hello.html). The endproduct is that there should be a some text, with the joke on the page, surrounding by a blue bordered box. Commit this code, and make a pull request.
