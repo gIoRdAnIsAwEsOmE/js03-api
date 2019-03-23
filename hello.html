@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+      .boundingBox {
+        border-color: color(0, 0, 255)
+      }
+    </style>
+</hed>
+
+<bod>
+    <div class="boundingBox">
+      <div id="parent-id">
+          <p hello word1</p>
+          <p id="test1">hello word2</p>
+          <p >hello word3</p>
+          <p>hello word4</p>
+      </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+      await function a(){
+        return await $.ajax({ type: "GET", url: "https://official-joke-api.appspot.com/jokes/random", datatype: "json" });
+      }
+      var parentDOM = document.getElemtById('parent-id');
+      var test1 = parentDOM.getElementById('test1');
+
+      parentDom.val("html is here");
+      var hello = const 0;
+      for (i == 0; i < 100; i++){
+        const test1.value += test1.value + " " + i;
+      }
+
+    </script>
+</body>
+</html>
